@@ -8,6 +8,6 @@ Abra o terminal no mesmo diretório que está o script e digite:
 
 chmod +x plantar_cenario.sh
 
-Execute:
+Execute no terminal:
 
-./codigo-gerado.sh
+./plantar_cenario.sh
