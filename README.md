@@ -1,13 +1,13 @@
-# codigo-gerado
+# Planta Cenário:
 
-Cria um cenário para a pratica Forense.
+Na máquina virtual que usaremos para fazer as análises Forense, siga os seguintes passos:
 
-Crie um arquivo com o nome: codigo-gerado.sh
+Baixe o script plantar_cenario.sh
 
-Abra o terminal no mesmo diretório que está o script e digite: 
+Abra o terminal no mesmo diretório em que está o arquivo e digite: 
 
 chmod +x plantar_cenario.sh
 
-Execute no terminal:
+Execute no terminal da seguinte forma:
 
 ./plantar_cenario.sh
