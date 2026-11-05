@@ -2,7 +2,7 @@
 
 Para plantar o cenário que precisamos:
 
-Na máquina virtual que usaremos para fazer as análises Forense, siga os seguintes passos:
+Na máquina virtual que usaremos como usuário comprometido, siga os seguintes passos:
 
 Baixe o script plantar_cenario.sh
 
